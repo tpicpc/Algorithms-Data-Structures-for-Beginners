@@ -1,1 +1,54 @@
 # Algorithms-Data-Structures-for-Beginners
+## ARRAY
+
+- 03 STATIC ARRAYS
+- 04 DYNAMIC ARRAYS
+- 05 STACKS
+## LINKED LISTS
+
+- 06 SINGLY LINKED LISTS
+- 07 DOUBLY LINKED LISTS
+- 08 QUEUES
+## RECURSION
+
+- 09 FACTORIAL
+- 10 FIBONACCI
+## SORTING
+
+- 11 INSERTION SORT
+- 12 MERGE SORT
+- 13 QUICK SORT
+- 14 BUCKET SORT
+## BINARY SEARCH
+
+- 15 SEARCH ARRAY
+
+## TREES
+
+- 18 BINARY SEARCH TREES
+- 19 BST INSERT AND Remove
+- 20 Depth-First Search
+- 21 Breadth-First Search
+## BACKTRACKING
+
+- 23 Tree Maze
+## HEAP PRIORITY QUEUE
+
+- 25 Push and Pop
+- 26 Heapify
+## HASHING
+
+- 27 Hash Usage
+- 28 Hash Implementation
+## GRAPHS
+
+- 30 Matrix DFS
+- 31 Matrix BFS
+- 32 Adjacency List
+## DYNAMIC PROGRAMMING
+
+- 33 1-Dimension DP
+- DYNAMIC PROGRAMMING
+## BIT MANIPULATION
+
+- 35 BIT OPERATOR
